@@ -26,8 +26,6 @@
 
 ---
 ## 🎨 Personal Info
-- I love art and my favorite artists are Basquiat and Kanye West
-- My favorite album of all time is Blonde by Frank Ocean
-- The best album of all time is either Thriller by MJ or What's Going On by Marvin Gaye
+- I love art and my favorite artist is
 - My favorite band is Kero Kero Bonito
 - I've been listening to PinkPantheress, beabadoobee and JPEGMAFIA.
